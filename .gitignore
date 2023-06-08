@@ -1,2 +1,4 @@
 .idea
 cosign.key
+# Makes sure no extra vim files are uploaded to repo.
+*~
