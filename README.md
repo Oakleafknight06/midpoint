@@ -1,4 +1,15 @@
-# Starting point
+# Midpoint
+
+A personal immutable Fedora image to play around with. Called midpoint because it came from startingpoint and isn't finished so can't be endpoint.
+I'll update the readme with more information once there are more changes in the image to document.
+
+
+
+
+
+# Original README
+
+## Starting point
 
 [![build-ublue](https://github.com/Oakleafknight06/midpoint/actions/workflows/build.yml/badge.svg)](https://github.com/Oakleafknight06/midpoint/actions/workflows/build.yml)
 
