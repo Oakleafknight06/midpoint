@@ -1,4 +1,8 @@
-# Midpoint
+# DEPRECATED
+See https://github.com/oakleafknight06/startingleaf
+
+
+### Midpoint
 
 A personal immutable Fedora image to play around with. Called midpoint because it came from startingpoint and isn't finished so can't be endpoint.
 I'll update the readme with more information once there are more changes in the image to document.
